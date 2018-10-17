@@ -9,7 +9,8 @@
       "clients": [
         {
           "id": "3d1ab698-52dd-439f-a3a5-a93396874060",
-          "alterId": 64
+          "alterId": 64,
+          "security":"aes-128-cfb"
         }
       ]
     },
